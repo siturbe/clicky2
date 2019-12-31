@@ -1,7 +1,6 @@
 import React from "react";
 
 
-
 const styles = {
   gameStlye: {
     display: 'flex',
@@ -10,7 +9,6 @@ const styles = {
 
     height: '100%',
     width: '75%'
-
   }
 
 }

@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import Game from "./components/Game";
 import Tile from "./components/Tile";
 import tiles from "./tiles";
+import Background from "./components/COTA.jpg";
 
 import "./App.css";
 
@@ -10,7 +11,9 @@ const styles = {
   AppStyle: {
     display: "flex",
     flexDirection: "column",
-    alignItems: "center"
+    alignItems: "center",
+
+    backgroundImage: "url(" + Background + ")"
   }
 };
 
