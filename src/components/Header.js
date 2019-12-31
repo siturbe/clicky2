@@ -22,7 +22,7 @@ function Header(props) {
 
   return (
     <div style={styles.header}>
-      <h1 style={styles.h1}>Clicky Game</h1>
+      <h1 style={styles.h1}>F1 Clicky Game</h1>
       <Message>{message}</Message>
       <ScoreBoard
         score={score}
