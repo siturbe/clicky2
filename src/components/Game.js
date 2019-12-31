@@ -1,20 +1,26 @@
-import React from 'react';
-import Board from './Board';
+import React from "react";
 
-class Game extends React.Component {
-    render() {
-      return (
-        <div className="game">
-          <div className="game-board">
-            <Board />
-          </div>
-          <div className="game-info">
-            <div>{/* status */}</div>
-            <ol>{/* TODO */}</ol>
-          </div>
-        </div>
-      );
-    }
+
+
+const styles = {
+  gameStlye: {
+    display: 'flex',
+    flexFlow: 'row wrap',
+    justifyContent: 'center',
+
+    height: '100%',
+    width: '75%'
+
   }
 
-  export default Game;
+}
+
+
+function Game(props) {
+
+   
+  return <div style={styles.gameStlye}>{props.children}</div>;
+
+}
+
+export default Game;

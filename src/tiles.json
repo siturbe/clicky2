@@ -1,0 +1,82 @@
+[
+    {
+        "id": 0,
+        "image": "./images/albon.jpg"
+    },
+    {
+        "id": 1,
+        "image": "./images/bottas.jpg"
+    },
+    {
+        "id": 2,
+        "image": "./images/gasly.jpg"
+    },
+    {
+        "id": 3,
+        "image": "./images/giovinazzi.jpg"
+    },
+    {
+        "id": 4,
+        "image": "./images/hamilton.jpg"
+    },
+    {
+        "id": 5,
+        "image": "./images/hulkenberg.jpg"
+    },
+    {
+        "id": 6,
+        "image": "./images/kubica.jpg"
+    },
+    {
+        "id": 7,
+        "image": "./images/kvyat.jpg"
+    },
+    {
+        "id": 8,
+        "image": "./images/magnussen.jpg"
+    },
+    {
+        "id": 9,
+        "image": "./images/norris.jpg"
+    },
+    {
+        "id": 10,
+        "image": "./images/perez.jpg"
+    },
+    {
+        "id": 11,
+        "image": "./images/raikkonen.jpg"
+    },
+    {
+        "id": 12,
+        "image": "./images/russell.jpg"
+    },
+    {
+        "id": 13,
+        "image": "./images/sainz.jpg"
+    },
+    {
+        "id": 14,
+        "image": "./images/stroll.jpg"
+    },
+    {
+        "id": 15,
+        "image": "./images/verstappen.jpg"
+    },
+    {
+        "id": 16,
+        "image": "./images/grosjean.jpg"
+    },
+    {
+        "id": 17,
+        "image": "./images/leclerc.jpg"
+    },
+    {
+        "id": 18,
+        "image": "./images/ricciardo.jpg"
+    },
+    {
+        "id": 19,
+        "image": "./images/vettel.jpg"
+    }
+    ]
