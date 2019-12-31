@@ -22,7 +22,7 @@ class App extends React.Component {
     super(props);
     this.state = {
       tiles,
-      tilesArray: new Array(12).fill(false),
+      tilesArray: new Array(20).fill(false),
       score: "0",
       topScore: "0",
       guessCorrectly: true,
