@@ -53,7 +53,7 @@ class App extends React.Component {
       }));
       console.log(id);
     } else {
-      const tilesArray = new Array(12).fill(false);
+      const tilesArray = new Array(20).fill(false);
 
       //change score
       this.setState(state => ({
